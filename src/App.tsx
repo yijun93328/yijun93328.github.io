@@ -1,4 +1,5 @@
 import { useState, useEffect, useLayoutEffect, useRef } from 'react'
+import avatarImg from './avatar.png'
 
 const playgroundItems = [
   { id: 1, title: 'Plastic Surgery Hospital', cursorLabel: '3D printing work', category: '3D Printing', img: '/projects/project-1.webp' },
@@ -892,7 +893,7 @@ function RotatingBadge({ label, cta }: { label: string; cta: string }) {
         style={{ background: '#F2ECFF' }}
       >
         <img
-          src="/src/avatar.png"
+          src={avatarImg}
           alt={cta}
           className="w-full h-full object-cover object-top"
         />
