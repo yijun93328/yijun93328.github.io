@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="40" viewBox="0 0 34 40">
+  <!-- Shadow layer -->
+  <path
+    transform="translate(2, 3)"
+    d="M 6 4 L 6 26 Q 6 30 9.5 29 L 11.5 22 L 15.5 31 Q 17 34 19.5 32.5 L 14.5 22 L 24 22 Q 29 22 29 17 Q 29 4 17 4 Q 11 4 6 4 Z"
+    fill="black" opacity="0.18"
+  />
+  <!-- White sticker border -->
+  <path
+    d="M 6 4 L 6 26 Q 6 30 9.5 29 L 11.5 22 L 15.5 31 Q 17 34 19.5 32.5 L 14.5 22 L 24 22 Q 29 22 29 17 Q 29 4 17 4 Q 11 4 6 4 Z"
+    stroke="white" stroke-width="5.5" stroke-linejoin="round" stroke-linecap="round" fill="white"
+  />
+  <!-- Black arrow -->
+  <path
+    d="M 6 4 L 6 26 Q 6 30 9.5 29 L 11.5 22 L 15.5 31 Q 17 34 19.5 32.5 L 14.5 22 L 24 22 Q 29 22 29 17 Q 29 4 17 4 Q 11 4 6 4 Z"
+    fill="#1c1c1c"
+  />
+</svg>
