@@ -504,6 +504,7 @@ const projectPageContent: Record<string, ProjectPageData> = {
     ],
   },
   'project-7': {
+    heroNoCrop: true,
     hiddenSections: [1],
     videoEmbed: 'https://player.vimeo.com/video/277048004',
     gallery: [
